@@ -156,7 +156,11 @@ public class StringRoutines {
      * 
      * {param} string(fieldString) input: The full field that has characters to be removed.
      *
+<<<<<<< HEAD
+     * {param} string[]("args") input: The list of characters that need to be removed (can be infinite)
+=======
      * {param} string[]("character") input: The list of characters that need to be removed (can be infinite)
+>>>>>>> master
      * 
      * {example} addDecimals("123456") # "1234.56".
      */
